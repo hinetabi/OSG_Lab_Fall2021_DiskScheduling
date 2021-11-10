@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8f28837-ece4-4056-9ba1-eb9b5964ff01" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/build/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Scheduling_Algorithm/Clock.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Scheduling_Algorithm/Clock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Scheduling_Algorithm/SCAN.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Scheduling_Algorithm/SCAN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Scheduling_Algorithm/SSTF.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Scheduling_Algorithm/SSTF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Scheduling_Algorithm/fcfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Scheduling_Algorithm/fcfs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scheduling_Algorithm/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scheduling_Algorithm/Clock.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zzNAhxV9gYcQRHYpS4nQG9ZfbM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8f28837-ece4-4056-9ba1-eb9b5964ff01" name="Default Changelist" comment="" />
+      <created>1635146817741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635146817741</updated>
+    </task>
+    <servers />
+  </component>
+</project>

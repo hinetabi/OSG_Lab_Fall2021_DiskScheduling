@@ -1,2 +1,2 @@
 # OSG_Lab_Fall2021_DiskScheduling
-Imitate Disk Scheduling Algorithm in Java code
+The Project is an imitation for the algorithm of disk scheduling.

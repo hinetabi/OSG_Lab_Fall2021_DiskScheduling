@@ -1,0 +1,14 @@
+Move 110 to 12 with seek 98
+Move 12 to 13 with seek 1
+Move 13 to 14 with seek 1
+Move 14 to 1 with seek 13
+Move 1 to 41 with seek 40
+Move 41 to 3 with seek 38
+Move 3 to 13 with seek 10
+Move 13 to 13 with seek 0
+Move 13 to 13 with seek 0
+Move 13 to 13 with seek 0
+Move 13 to 14 with seek 1
+Move 14 to 154 with seek 140
+Total Seek time is 342
+Average seek time is 28.5
